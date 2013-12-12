@@ -1,0 +1,15 @@
+{
+  "name": "lodash-get",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Svjard/lodash-get",
+  "authors": [
+    "Marc Fisher <mcfisher83@gmail.com>"
+  ],
+  "description": "Extension for _.result which handles variable number of keys.",
+  "main": "./src/lodash-get.js",
+  "keywords": [
+    "lodash"
+  ],
+  "license": "MIT"
+}
+

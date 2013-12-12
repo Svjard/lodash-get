@@ -1,0 +1,28 @@
+{
+  "name": "lodash-get",
+  "author": "Marc Fisher <mcfisher83@gmail.com>",
+  "contributors": [{
+    "name": "Marc Fisher",
+    "email": "mcfisher83@gmail.com"
+  }],
+  "description": "Extension for _.result which handles variable number of keys.",
+  "license": "MIT",
+  "main": "./src/lodash-get.js",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Svjard/lodash-get.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.7.2",
+    "grunt-contrib-uglify": "~0.2.7",
+    "matchdep": "~0.3.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "chai": "~1.8.1",
+    "grunt-mocha-test": "~0.8.0"
+  },
+  "dependencies": {
+    "lodash": "~2.4.0"
+  }
+}
