@@ -2,7 +2,7 @@
   var _;
   var mixins = {};
   if (typeof require === 'function') {
-    _ = require('lodash');
+    _ = require(['lodash']);
     module.exports = mixins;
   } else {
     _ = window._;
